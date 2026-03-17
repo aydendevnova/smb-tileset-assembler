@@ -1,0 +1,44 @@
+{
+  "sheet_width": 16,
+  "sheet_height": 16,
+  "tile_size": 8,
+  "mappings": [
+    {
+      "col": 0,
+      "row": 0,
+      "chr_tile": 84,
+      "hflip": false,
+      "vflip": false
+    },
+    {
+      "col": 1,
+      "row": 0,
+      "chr_tile": 85,
+      "hflip": false,
+      "vflip": false
+    },
+    {
+      "col": 0,
+      "row": 1,
+      "chr_tile": 86,
+      "hflip": false,
+      "vflip": false
+    },
+    {
+      "col": 1,
+      "row": 1,
+      "chr_tile": 87,
+      "hflip": false,
+      "vflip": false
+    }
+  ],
+  "name": "flag_victory",
+  "palette_id": 27,
+  "other_palette_ids": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

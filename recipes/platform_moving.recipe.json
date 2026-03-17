@@ -1,0 +1,37 @@
+{
+  "sheet_width": 24,
+  "sheet_height": 8,
+  "tile_size": 8,
+  "mappings": [
+    {
+      "col": 0,
+      "row": 0,
+      "chr_tile": 91,
+      "hflip": false,
+      "vflip": false
+    },
+    {
+      "col": 1,
+      "row": 0,
+      "chr_tile": 91,
+      "hflip": false,
+      "vflip": false
+    },
+    {
+      "col": 2,
+      "row": 0,
+      "chr_tile": 91,
+      "hflip": false,
+      "vflip": false
+    }
+  ],
+  "name": "platform_moving",
+  "palette_id": 27,
+  "other_palette_ids": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

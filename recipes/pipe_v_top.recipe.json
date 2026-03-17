@@ -1,0 +1,72 @@
+{
+  "sheet_width": 32,
+  "sheet_height": 16,
+  "tile_size": 8,
+  "mappings": [
+    {
+      "col": 0,
+      "row": 0,
+      "chr_tile": 352,
+      "hflip": false,
+      "vflip": false
+    },
+    {
+      "col": 1,
+      "row": 0,
+      "chr_tile": 353,
+      "hflip": false,
+      "vflip": false
+    },
+    {
+      "col": 2,
+      "row": 0,
+      "chr_tile": 354,
+      "hflip": false,
+      "vflip": false
+    },
+    {
+      "col": 3,
+      "row": 0,
+      "chr_tile": 355,
+      "hflip": false,
+      "vflip": false
+    },
+    {
+      "col": 0,
+      "row": 1,
+      "chr_tile": 356,
+      "hflip": false,
+      "vflip": false
+    },
+    {
+      "col": 1,
+      "row": 1,
+      "chr_tile": 357,
+      "hflip": false,
+      "vflip": false
+    },
+    {
+      "col": 2,
+      "row": 1,
+      "chr_tile": 358,
+      "hflip": false,
+      "vflip": false
+    },
+    {
+      "col": 3,
+      "row": 1,
+      "chr_tile": 359,
+      "hflip": false,
+      "vflip": false
+    }
+  ],
+  "name": "pipe_v_top",
+  "palette_id": 12,
+  "other_palette_ids": [
+    13,
+    6,
+    14,
+    15,
+    16
+  ]
+}

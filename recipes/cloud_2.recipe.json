@@ -1,0 +1,144 @@
+{
+  "sheet_width": 48,
+  "sheet_height": 24,
+  "tile_size": 8,
+  "mappings": [
+    {
+      "col": 0,
+      "row": 0,
+      "chr_tile": null,
+      "hflip": false,
+      "vflip": false
+    },
+    {
+      "col": 1,
+      "row": 0,
+      "chr_tile": 310,
+      "hflip": false,
+      "vflip": false
+    },
+    {
+      "col": 2,
+      "row": 0,
+      "chr_tile": 311,
+      "hflip": false,
+      "vflip": false
+    },
+    {
+      "col": 3,
+      "row": 0,
+      "chr_tile": 310,
+      "hflip": false,
+      "vflip": false
+    },
+    {
+      "col": 4,
+      "row": 0,
+      "chr_tile": 311,
+      "hflip": false,
+      "vflip": false
+    },
+    {
+      "col": 5,
+      "row": 0,
+      "chr_tile": null,
+      "hflip": false,
+      "vflip": false
+    },
+    {
+      "col": 0,
+      "row": 1,
+      "chr_tile": 309,
+      "hflip": false,
+      "vflip": false
+    },
+    {
+      "col": 1,
+      "row": 1,
+      "chr_tile": 293,
+      "hflip": false,
+      "vflip": false
+    },
+    {
+      "col": 2,
+      "row": 1,
+      "chr_tile": 293,
+      "hflip": false,
+      "vflip": false
+    },
+    {
+      "col": 3,
+      "row": 1,
+      "chr_tile": 293,
+      "hflip": false,
+      "vflip": false
+    },
+    {
+      "col": 4,
+      "row": 1,
+      "chr_tile": 293,
+      "hflip": false,
+      "vflip": false
+    },
+    {
+      "col": 5,
+      "row": 1,
+      "chr_tile": 312,
+      "hflip": false,
+      "vflip": false
+    },
+    {
+      "col": 0,
+      "row": 2,
+      "chr_tile": 313,
+      "hflip": false,
+      "vflip": false
+    },
+    {
+      "col": 1,
+      "row": 2,
+      "chr_tile": 314,
+      "hflip": false,
+      "vflip": false
+    },
+    {
+      "col": 2,
+      "row": 2,
+      "chr_tile": 315,
+      "hflip": false,
+      "vflip": false
+    },
+    {
+      "col": 3,
+      "row": 2,
+      "chr_tile": 314,
+      "hflip": false,
+      "vflip": false
+    },
+    {
+      "col": 4,
+      "row": 2,
+      "chr_tile": 315,
+      "hflip": false,
+      "vflip": false
+    },
+    {
+      "col": 5,
+      "row": 2,
+      "chr_tile": 316,
+      "hflip": false,
+      "vflip": false
+    }
+  ],
+  "name": "cloud_2",
+  "palette_id": 17,
+  "other_palette_ids": [
+    18,
+    20,
+    19,
+    null,
+    null
+  ],
+  "godot_tileset": true,
+  "metatile_id": -1
+}

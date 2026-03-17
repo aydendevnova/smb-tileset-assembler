@@ -1,0 +1,45 @@
+{
+  "sheet_width": 16,
+  "sheet_height": 16,
+  "tile_size": 8,
+  "mappings": [
+    {
+      "col": 0,
+      "row": 0,
+      "chr_tile": 458,
+      "hflip": false,
+      "vflip": false
+    },
+    {
+      "col": 1,
+      "row": 0,
+      "chr_tile": 459,
+      "hflip": false,
+      "vflip": false
+    },
+    {
+      "col": 0,
+      "row": 1,
+      "chr_tile": 460,
+      "hflip": false,
+      "vflip": false
+    },
+    {
+      "col": 1,
+      "row": 1,
+      "chr_tile": 461,
+      "hflip": false,
+      "vflip": false
+    }
+  ],
+  "name": "cannon_mid",
+  "palette_id": 4,
+  "other_palette_ids": [
+    5,
+    6,
+    7,
+    null,
+    null
+  ],
+  "metatile_id": 101
+}

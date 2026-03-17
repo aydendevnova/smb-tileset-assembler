@@ -1,0 +1,30 @@
+{
+  "sheet_width": 8,
+  "sheet_height": 16,
+  "tile_size": 8,
+  "mappings": [
+    {
+      "col": 0,
+      "row": 0,
+      "chr_tile": 128,
+      "hflip": false,
+      "vflip": false
+    },
+    {
+      "col": 0,
+      "row": 1,
+      "chr_tile": 129,
+      "hflip": false,
+      "vflip": false
+    }
+  ],
+  "name": "hammer",
+  "palette_id": 0,
+  "other_palette_ids": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

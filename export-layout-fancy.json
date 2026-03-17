@@ -1,0 +1,523 @@
+{
+  "sheet_width": 512,
+  "placements": {
+    "floor_normal": {
+      "col": 0,
+      "row": 0,
+      "gap": 18
+    },
+    "brick_top": {
+      "col": 2,
+      "row": 0,
+      "gap": 18
+    },
+    "brick_bg": {
+      "col": 4,
+      "row": 0,
+      "gap": 18
+    },
+    "block_empty_bg": {
+      "col": 6,
+      "row": 0,
+      "gap": 18
+    },
+    "castle_turret": {
+      "col": 8,
+      "row": 0,
+      "gap": 18
+    },
+    "castle_turret_top": {
+      "col": 10,
+      "row": 0,
+      "gap": 18
+    },
+    "castle_window": {
+      "col": 12,
+      "row": 0,
+      "gap": 18
+    },
+    "cannon_top": {
+      "col": 14,
+      "row": 0,
+      "gap": 18
+    },
+    "water": {
+      "col": 104,
+      "row": 0,
+      "gap": 2
+    },
+    "stair": {
+      "col": 0,
+      "row": 2,
+      "gap": 18
+    },
+    "platform-bg": {
+      "col": 2,
+      "row": 2,
+      "gap": 18
+    },
+    "bridge": {
+      "col": 4,
+      "row": 2,
+      "gap": 18
+    },
+    "brick_left": {
+      "col": 6,
+      "row": 2,
+      "gap": 18
+    },
+    "brick_right": {
+      "col": 10,
+      "row": 2,
+      "gap": 18
+    },
+    "tile_15": {
+      "col": 12,
+      "row": 2,
+      "gap": 18
+    },
+    "cannon_mid": {
+      "col": 14,
+      "row": 2,
+      "gap": 18
+    },
+    "block_empty_fg": {
+      "col": 16,
+      "row": 2,
+      "gap": 18
+    },
+    "cloud_large": {
+      "col": 80,
+      "row": 2,
+      "gap": 1
+    },
+    "water_tile": {
+      "col": 104,
+      "row": 2,
+      "gap": 2
+    },
+    "tile_17": {
+      "col": 0,
+      "row": 4,
+      "gap": 18
+    },
+    "dec2_tl": {
+      "col": 2,
+      "row": 4,
+      "gap": 18
+    },
+    "dec2_t": {
+      "col": 4,
+      "row": 4,
+      "gap": 18
+    },
+    "dec2_tr": {
+      "col": 6,
+      "row": 4,
+      "gap": 18
+    },
+    "tile_21": {
+      "col": 8,
+      "row": 4,
+      "gap": 18
+    },
+    "tile_22": {
+      "col": 10,
+      "row": 4,
+      "gap": 18
+    },
+    "cannon_base": {
+      "col": 14,
+      "row": 4,
+      "gap": 18
+    },
+    "brick_top_fg": {
+      "col": 16,
+      "row": 4,
+      "gap": 18
+    },
+    "tile_25": {
+      "col": 0,
+      "row": 6,
+      "gap": 18
+    },
+    "dec1_stem": {
+      "col": 2,
+      "row": 6,
+      "gap": 4
+    },
+    "fence": {
+      "col": 4,
+      "row": 6,
+      "gap": 18
+    },
+    "dec2_side": {
+      "col": 6,
+      "row": 6,
+      "gap": 18
+    },
+    "tile_29": {
+      "col": 8,
+      "row": 6,
+      "gap": 18
+    },
+    "tile_30": {
+      "col": 10,
+      "row": 6,
+      "gap": 18
+    },
+    "tile_23": {
+      "col": 12,
+      "row": 6
+    },
+    "brick_fg": {
+      "col": 16,
+      "row": 6,
+      "gap": 18
+    },
+    "cloud_small": {
+      "col": 80,
+      "row": 6,
+      "gap": 2
+    },
+    "bridge_castle": {
+      "col": 104,
+      "row": 6,
+      "gap": 2
+    },
+    "platform_l": {
+      "col": 0,
+      "row": 10,
+      "gap": 18
+    },
+    "platform_m": {
+      "col": 2,
+      "row": 10,
+      "gap": 18
+    },
+    "platform_m_2": {
+      "col": 4,
+      "row": 10,
+      "gap": 18
+    },
+    "platform_r": {
+      "col": 6,
+      "row": 10,
+      "gap": 18
+    },
+    "mushplat_l": {
+      "col": 8,
+      "row": 10,
+      "gap": 18
+    },
+    "mushplat_m": {
+      "col": 10,
+      "row": 10,
+      "gap": 18
+    },
+    "mushplat_r": {
+      "col": 12,
+      "row": 10,
+      "gap": 18
+    },
+    "tree_top": {
+      "col": 14,
+      "row": 10,
+      "gap": 18
+    },
+    "pipe_v_assembled": {
+      "col": 16,
+      "row": 10,
+      "gap": 16
+    },
+    "tree_small": {
+      "col": 12,
+      "row": 12,
+      "gap": 18
+    },
+    "tree_bottom": {
+      "col": 14,
+      "row": 12,
+      "gap": 18
+    },
+    "bush_1": {
+      "col": 1,
+      "row": 12,
+      "gap": 16
+    },
+    "bridge_rope": {
+      "col": 6,
+      "row": 12,
+      "gap": 18
+    },
+    "chain": {
+      "col": 8,
+      "row": 12,
+      "gap": 18
+    },
+    "coral": {
+      "col": 10,
+      "row": 12,
+      "gap": 18
+    },
+    "pipe_h_assembled": {
+      "col": 12,
+      "row": 14,
+      "gap": 12
+    },
+    "pipe_v_body": {
+      "col": 0,
+      "row": 16,
+      "gap": 16
+    },
+    "pipe_v_top": {
+      "col": 6,
+      "row": 16,
+      "gap": 16
+    },
+    "hill_large": {
+      "col": 0,
+      "row": 19,
+      "gap": 10
+    },
+    "hill_small": {
+      "col": 11,
+      "row": 21,
+      "gap": 14
+    },
+    "bush_2": {
+      "col": 1,
+      "row": 26,
+      "gap": 14
+    },
+    "bush_3": {
+      "col": 11,
+      "row": 26,
+      "gap": 12
+    },
+    "platform": {
+      "col": 0,
+      "row": 30,
+      "gap": 14
+    },
+    "cannon_assembled": {
+      "col": 26,
+      "row": 30,
+      "gap": 1
+    },
+    "brick_half": {
+      "col": 72,
+      "row": 38
+    },
+    "platform_2_assembled_2": {
+      "col": 0,
+      "row": 34
+    },
+    "mushroom": {
+      "col": 40,
+      "row": 34
+    },
+    "mushroom_1up": {
+      "col": 44,
+      "row": 34
+    },
+    "platform_cloud_single": {
+      "col": 54,
+      "row": 34
+    },
+    "platform_moving_single": {
+      "col": 64,
+      "row": 34
+    },
+    "cloud_3": {
+      "col": 81,
+      "row": 34,
+      "gap": 1
+    },
+    "fire_flower": {
+      "col": 40,
+      "row": 36
+    },
+    "platform_cloud": {
+      "col": 54,
+      "row": 36
+    },
+    "platform_moving": {
+      "col": 64,
+      "row": 36
+    },
+    "platform_1_assembled": {
+      "col": 20,
+      "row": 38
+    },
+    "platmush_assembled": {
+      "col": 32,
+      "row": 38
+    },
+    "star": {
+      "col": 40,
+      "row": 38
+    },
+    "platform_cloud_longer": {
+      "col": 54,
+      "row": 38
+    },
+    "platform_moving_longer": {
+      "col": 64,
+      "row": 38
+    },
+    "cloud_2": {
+      "col": 81,
+      "row": 39,
+      "gap": 2
+    },
+    "brick_piece": {
+      "col": 40,
+      "row": 40,
+      "gap": 1
+    },
+    "spring3": {
+      "col": 72,
+      "row": 33
+    },
+    "spring2": {
+      "col": 74,
+      "row": 33
+    },
+    "spring1": {
+      "col": 76,
+      "row": 33
+    },
+    "flag_victory": {
+      "col": 40,
+      "row": 42
+    },
+    "hammer": {
+      "col": 43,
+      "row": 42
+    },
+    "vine": {
+      "col": 46,
+      "row": 42,
+      "gap": 1
+    },
+    "fire_hit3": {
+      "col": 54,
+      "row": 42
+    },
+    "fire_hit2": {
+      "col": 56,
+      "row": 42
+    },
+    "fire_hit1": {
+      "col": 58,
+      "row": 42
+    },
+    "fireball": {
+      "col": 62,
+      "row": 42
+    },
+    "fireball2": {
+      "col": 64,
+      "row": 42
+    },
+    "vine_2": {
+      "col": 46,
+      "row": 44,
+      "gap": 1
+    },
+    "level_castle_assembled": {
+      "col": 2,
+      "row": 46,
+      "gap": 2
+    },
+    "question_block": {
+      "col": 40,
+      "row": 46,
+      "gap": 10
+    },
+    "coin_a": {
+      "col": 42,
+      "row": 46,
+      "gap": 10
+    },
+    "coin_b": {
+      "col": 44,
+      "row": 46,
+      "gap": 10
+    },
+    "axe": {
+      "col": 46,
+      "row": 46,
+      "gap": 10
+    },
+    "block_empty": {
+      "col": 48,
+      "row": 46,
+      "gap": 10
+    },
+    "flag_assembled": {
+      "col": 92,
+      "row": 47,
+      "gap": 2
+    },
+    "score_coin_a": {
+      "col": 64,
+      "row": 54
+    },
+    "score_coin_b": {
+      "col": 66,
+      "row": 54
+    },
+    "score_coin_c": {
+      "col": 68,
+      "row": 54
+    },
+    "score_coin_d": {
+      "col": 70,
+      "row": 54
+    },
+    "level_castle_large_assembled": {
+      "col": 0,
+      "row": 58
+    },
+    "flagpole_ball": {
+      "col": 70,
+      "row": 62
+    },
+    "flagpole": {
+      "col": 70,
+      "row": 66
+    },
+    "flag": {
+      "col": 84,
+      "row": 66
+    },
+    "scores_ui_assembled": {
+      "col": 68,
+      "row": 74,
+      "gap": 2
+    },
+    "crown": {
+      "col": 80,
+      "row": 74
+    },
+    "cursor": {
+      "col": 82,
+      "row": 74
+    },
+    "fonts_ui_assembled": {
+      "col": 56,
+      "row": 75
+    },
+    "ui-coin": {
+      "col": 80,
+      "row": 76,
+      "gap": 1
+    },
+    "logo_ui_assembled": {
+      "col": 0,
+      "row": 82
+    }
+  }
+}

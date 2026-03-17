@@ -1,0 +1,46 @@
+{
+  "sheet_width": 16,
+  "sheet_height": 16,
+  "tile_size": 8,
+  "mappings": [
+    {
+      "col": 0,
+      "row": 0,
+      "chr_tile": 440,
+      "hflip": false,
+      "vflip": false
+    },
+    {
+      "col": 1,
+      "row": 0,
+      "chr_tile": 440,
+      "hflip": true,
+      "vflip": false
+    },
+    {
+      "col": 0,
+      "row": 1,
+      "chr_tile": 444,
+      "hflip": false,
+      "vflip": false
+    },
+    {
+      "col": 1,
+      "row": 1,
+      "chr_tile": 445,
+      "hflip": false,
+      "vflip": false
+    }
+  ],
+  "name": "tree_small",
+  "palette_id": 12,
+  "other_palette_ids": [
+    13,
+    6,
+    14,
+    15,
+    16
+  ],
+  "godot_tileset": true,
+  "metatile_id": 14
+}

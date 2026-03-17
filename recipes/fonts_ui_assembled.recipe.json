@@ -1,0 +1,366 @@
+{
+  "sheet_width": 80,
+  "sheet_height": 40,
+  "tile_size": 8,
+  "mappings": [
+    {
+      "col": 0,
+      "row": 0,
+      "chr_tile": 256,
+      "hflip": false,
+      "vflip": false
+    },
+    {
+      "col": 1,
+      "row": 0,
+      "chr_tile": 257,
+      "hflip": false,
+      "vflip": false
+    },
+    {
+      "col": 2,
+      "row": 0,
+      "chr_tile": 258,
+      "hflip": false,
+      "vflip": false
+    },
+    {
+      "col": 3,
+      "row": 0,
+      "chr_tile": 259,
+      "hflip": false,
+      "vflip": false
+    },
+    {
+      "col": 4,
+      "row": 0,
+      "chr_tile": 260,
+      "hflip": false,
+      "vflip": false
+    },
+    {
+      "col": 5,
+      "row": 0,
+      "chr_tile": 261,
+      "hflip": false,
+      "vflip": false
+    },
+    {
+      "col": 6,
+      "row": 0,
+      "chr_tile": 262,
+      "hflip": false,
+      "vflip": false
+    },
+    {
+      "col": 7,
+      "row": 0,
+      "chr_tile": 263,
+      "hflip": false,
+      "vflip": false
+    },
+    {
+      "col": 8,
+      "row": 0,
+      "chr_tile": 264,
+      "hflip": false,
+      "vflip": false
+    },
+    {
+      "col": 9,
+      "row": 0,
+      "chr_tile": 265,
+      "hflip": false,
+      "vflip": false
+    },
+    {
+      "col": 0,
+      "row": 1,
+      "chr_tile": 266,
+      "hflip": false,
+      "vflip": false
+    },
+    {
+      "col": 1,
+      "row": 1,
+      "chr_tile": 267,
+      "hflip": false,
+      "vflip": false
+    },
+    {
+      "col": 2,
+      "row": 1,
+      "chr_tile": 268,
+      "hflip": false,
+      "vflip": false
+    },
+    {
+      "col": 3,
+      "row": 1,
+      "chr_tile": 269,
+      "hflip": false,
+      "vflip": false
+    },
+    {
+      "col": 4,
+      "row": 1,
+      "chr_tile": 270,
+      "hflip": false,
+      "vflip": false
+    },
+    {
+      "col": 5,
+      "row": 1,
+      "chr_tile": 271,
+      "hflip": false,
+      "vflip": false
+    },
+    {
+      "col": 6,
+      "row": 1,
+      "chr_tile": 272,
+      "hflip": false,
+      "vflip": false
+    },
+    {
+      "col": 7,
+      "row": 1,
+      "chr_tile": 273,
+      "hflip": false,
+      "vflip": false
+    },
+    {
+      "col": 8,
+      "row": 1,
+      "chr_tile": 274,
+      "hflip": false,
+      "vflip": false
+    },
+    {
+      "col": 9,
+      "row": 1,
+      "chr_tile": 275,
+      "hflip": false,
+      "vflip": false
+    },
+    {
+      "col": 0,
+      "row": 2,
+      "chr_tile": 276,
+      "hflip": false,
+      "vflip": false
+    },
+    {
+      "col": 1,
+      "row": 2,
+      "chr_tile": 277,
+      "hflip": false,
+      "vflip": false
+    },
+    {
+      "col": 2,
+      "row": 2,
+      "chr_tile": 278,
+      "hflip": false,
+      "vflip": false
+    },
+    {
+      "col": 3,
+      "row": 2,
+      "chr_tile": 279,
+      "hflip": false,
+      "vflip": false
+    },
+    {
+      "col": 4,
+      "row": 2,
+      "chr_tile": 280,
+      "hflip": false,
+      "vflip": false
+    },
+    {
+      "col": 5,
+      "row": 2,
+      "chr_tile": 281,
+      "hflip": false,
+      "vflip": false
+    },
+    {
+      "col": 6,
+      "row": 2,
+      "chr_tile": 282,
+      "hflip": false,
+      "vflip": false
+    },
+    {
+      "col": 7,
+      "row": 2,
+      "chr_tile": 283,
+      "hflip": false,
+      "vflip": false
+    },
+    {
+      "col": 8,
+      "row": 2,
+      "chr_tile": 284,
+      "hflip": false,
+      "vflip": false
+    },
+    {
+      "col": 9,
+      "row": 2,
+      "chr_tile": 285,
+      "hflip": false,
+      "vflip": false
+    },
+    {
+      "col": 0,
+      "row": 3,
+      "chr_tile": 286,
+      "hflip": false,
+      "vflip": false
+    },
+    {
+      "col": 1,
+      "row": 3,
+      "chr_tile": 287,
+      "hflip": false,
+      "vflip": false
+    },
+    {
+      "col": 2,
+      "row": 3,
+      "chr_tile": 288,
+      "hflip": false,
+      "vflip": false
+    },
+    {
+      "col": 3,
+      "row": 3,
+      "chr_tile": 289,
+      "hflip": false,
+      "vflip": false
+    },
+    {
+      "col": 4,
+      "row": 3,
+      "chr_tile": 290,
+      "hflip": false,
+      "vflip": false
+    },
+    {
+      "col": 5,
+      "row": 3,
+      "chr_tile": 291,
+      "hflip": false,
+      "vflip": false
+    },
+    {
+      "col": 6,
+      "row": 3,
+      "chr_tile": null,
+      "hflip": false,
+      "vflip": false
+    },
+    {
+      "col": 7,
+      "row": 3,
+      "chr_tile": null,
+      "hflip": false,
+      "vflip": false
+    },
+    {
+      "col": 8,
+      "row": 3,
+      "chr_tile": null,
+      "hflip": false,
+      "vflip": false
+    },
+    {
+      "col": 9,
+      "row": 3,
+      "chr_tile": null,
+      "hflip": false,
+      "vflip": false
+    },
+    {
+      "col": 0,
+      "row": 4,
+      "chr_tile": 296,
+      "hflip": false,
+      "vflip": false
+    },
+    {
+      "col": 1,
+      "row": 4,
+      "chr_tile": 297,
+      "hflip": false,
+      "vflip": false
+    },
+    {
+      "col": 2,
+      "row": 4,
+      "chr_tile": 299,
+      "hflip": false,
+      "vflip": false
+    },
+    {
+      "col": 3,
+      "row": 4,
+      "chr_tile": 431,
+      "hflip": false,
+      "vflip": false
+    },
+    {
+      "col": 4,
+      "row": 4,
+      "chr_tile": 463,
+      "hflip": false,
+      "vflip": false
+    },
+    {
+      "col": 5,
+      "row": 4,
+      "chr_tile": null,
+      "hflip": false,
+      "vflip": false
+    },
+    {
+      "col": 6,
+      "row": 4,
+      "chr_tile": null,
+      "hflip": false,
+      "vflip": false
+    },
+    {
+      "col": 7,
+      "row": 4,
+      "chr_tile": null,
+      "hflip": false,
+      "vflip": false
+    },
+    {
+      "col": 8,
+      "row": 4,
+      "chr_tile": null,
+      "hflip": false,
+      "vflip": false
+    },
+    {
+      "col": 9,
+      "row": 4,
+      "chr_tile": null,
+      "hflip": false,
+      "vflip": false
+    }
+  ],
+  "name": "fonts_ui_assembled",
+  "palette_id": 6,
+  "other_palette_ids": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

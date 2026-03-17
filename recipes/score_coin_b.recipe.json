@@ -1,0 +1,30 @@
+{
+  "sheet_width": 8,
+  "sheet_height": 16,
+  "tile_size": 8,
+  "mappings": [
+    {
+      "col": 0,
+      "row": 0,
+      "chr_tile": 97,
+      "hflip": false,
+      "vflip": false
+    },
+    {
+      "col": 0,
+      "row": 1,
+      "chr_tile": 97,
+      "hflip": false,
+      "vflip": true
+    }
+  ],
+  "name": "coin_b",
+  "palette_id": 27,
+  "other_palette_ids": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

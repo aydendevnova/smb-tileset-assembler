@@ -1,0 +1,184 @@
+{
+  "sheet_width": 32,
+  "sheet_height": 48,
+  "tile_size": 8,
+  "mappings": [
+    {
+      "col": 0,
+      "row": 0,
+      "chr_tile": 246,
+      "hflip": false,
+      "vflip": false
+    },
+    {
+      "col": 1,
+      "row": 0,
+      "chr_tile": 251,
+      "hflip": false,
+      "vflip": false
+    },
+    {
+      "col": 2,
+      "row": 0,
+      "chr_tile": 246,
+      "hflip": false,
+      "vflip": false
+    },
+    {
+      "col": 3,
+      "row": 0,
+      "chr_tile": 80,
+      "hflip": false,
+      "vflip": false
+    },
+    {
+      "col": 0,
+      "row": 1,
+      "chr_tile": 247,
+      "hflip": false,
+      "vflip": false
+    },
+    {
+      "col": 1,
+      "row": 1,
+      "chr_tile": 251,
+      "hflip": false,
+      "vflip": false
+    },
+    {
+      "col": 2,
+      "row": 1,
+      "chr_tile": 247,
+      "hflip": false,
+      "vflip": false
+    },
+    {
+      "col": 3,
+      "row": 1,
+      "chr_tile": 80,
+      "hflip": false,
+      "vflip": false
+    },
+    {
+      "col": 0,
+      "row": 2,
+      "chr_tile": 248,
+      "hflip": false,
+      "vflip": false
+    },
+    {
+      "col": 1,
+      "row": 2,
+      "chr_tile": 251,
+      "hflip": false,
+      "vflip": false
+    },
+    {
+      "col": 2,
+      "row": 2,
+      "chr_tile": 248,
+      "hflip": false,
+      "vflip": false
+    },
+    {
+      "col": 3,
+      "row": 2,
+      "chr_tile": 80,
+      "hflip": false,
+      "vflip": false
+    },
+    {
+      "col": 0,
+      "row": 3,
+      "chr_tile": 249,
+      "hflip": false,
+      "vflip": false
+    },
+    {
+      "col": 1,
+      "row": 3,
+      "chr_tile": 251,
+      "hflip": false,
+      "vflip": false
+    },
+    {
+      "col": 2,
+      "row": 3,
+      "chr_tile": 249,
+      "hflip": false,
+      "vflip": false
+    },
+    {
+      "col": 3,
+      "row": 3,
+      "chr_tile": 80,
+      "hflip": false,
+      "vflip": false
+    },
+    {
+      "col": 0,
+      "row": 4,
+      "chr_tile": 250,
+      "hflip": false,
+      "vflip": false
+    },
+    {
+      "col": 1,
+      "row": 4,
+      "chr_tile": 251,
+      "hflip": false,
+      "vflip": false
+    },
+    {
+      "col": 2,
+      "row": 4,
+      "chr_tile": 250,
+      "hflip": false,
+      "vflip": false
+    },
+    {
+      "col": 3,
+      "row": 4,
+      "chr_tile": 80,
+      "hflip": false,
+      "vflip": false
+    },
+    {
+      "col": 0,
+      "row": 5,
+      "chr_tile": null,
+      "hflip": false,
+      "vflip": false
+    },
+    {
+      "col": 1,
+      "row": 5,
+      "chr_tile": null,
+      "hflip": false,
+      "vflip": false
+    },
+    {
+      "col": 2,
+      "row": 5,
+      "chr_tile": 253,
+      "hflip": false,
+      "vflip": false
+    },
+    {
+      "col": 3,
+      "row": 5,
+      "chr_tile": 254,
+      "hflip": false,
+      "vflip": false
+    }
+  ],
+  "name": "scores_ui_assembled",
+  "palette_id": 24,
+  "other_palette_ids": [
+    25,
+    null,
+    null,
+    null,
+    null
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "sheet_width": 16,
+  "sheet_height": 16,
+  "tile_size": 8,
+  "mappings": [
+    {
+      "col": 0,
+      "row": 0,
+      "chr_tile": 450,
+      "hflip": false,
+      "vflip": false
+    },
+    {
+      "col": 1,
+      "row": 0,
+      "chr_tile": 451,
+      "hflip": false,
+      "vflip": false
+    },
+    {
+      "col": 0,
+      "row": 1,
+      "chr_tile": 452,
+      "hflip": false,
+      "vflip": false
+    },
+    {
+      "col": 1,
+      "row": 1,
+      "chr_tile": 453,
+      "hflip": false,
+      "vflip": false
+    }
+  ],
+  "name": "coin_b",
+  "palette_id": 8,
+  "other_palette_ids": [
+    9,
+    10,
+    11,
+    null,
+    null
+  ],
+  "metatile_id": 195
+}

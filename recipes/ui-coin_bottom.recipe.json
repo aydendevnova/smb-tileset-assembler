@@ -1,0 +1,23 @@
+{
+  "sheet_width": 8,
+  "sheet_height": 8,
+  "tile_size": 8,
+  "mappings": [
+    {
+      "col": 0,
+      "row": 0,
+      "chr_tile": 255,
+      "hflip": false,
+      "vflip": false
+    }
+  ],
+  "name": "ui_coin_bottom",
+  "palette_id": 0,
+  "other_palette_ids": [
+    1,
+    2,
+    3,
+    null,
+    null
+  ]
+}
