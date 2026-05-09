@@ -5,7 +5,8 @@ Status: Usable; but work in progress
 ## Purpose
 TLDR; You can export a tileset from your Super Mario Bros NES ROM in a one line command.
 
-<img width="2553" height="1328" alt="Screenshot 2026-03-17 at 2 45 45 AM" src="https://github.com/user-attachments/assets/9dbd07e1-269c-4169-b2da-5baa5e81050d" />
+<img width="1915" height="933" alt="Screenshot 2026-04-16 at 12 00 50 PM" src="https://github.com/user-attachments/assets/ae9dad39-b60d-419b-9fa4-19636cdd7d36" />
+
 
 Super Mario Bros CHR (Character Rom) file can be easily extracted from the game. This is the source used to piece together the assets in the game. This tool assembles the 8x8 cells into recipes.
 
