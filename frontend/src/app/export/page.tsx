@@ -752,11 +752,13 @@ export default function ExportPage() {
     setSavingChr(true)
     try {
       const rows: string[] = []
+      const tiles: { col: number, row: number, chr_tile: number, hflip: number, vflip: number }[] = []
       let maxX = 0
       let maxY = 0
 
       function addCell(col: number, row: number, chr: number, hf: boolean, vf: boolean, pal: number) {
         rows.push(`${col},${row},${chr},${hf ? 1 : 0},${vf ? 1 : 0},${pal}`)
+        tiles.push({ col, row, chr_tile: chr, hflip: hf ? 1 : 0, vflip: vf ? 1 : 0 })
         maxX = Math.max(maxX, col + 1)
         maxY = Math.max(maxY, row + 1)
       }
@@ -816,7 +818,7 @@ export default function ExportPage() {
       const res = await fetch("/api/chr-mapping", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
-        body: JSON.stringify({ csv, meta }),
+        body: JSON.stringify({ csv, meta, tiles }),
       })
       const data = await res.json()
       if (data.error) throw new Error(data.error)

@@ -9,4 +9,5 @@ export const CONFIG = {
   exportLayoutPath: path.join(PROJECT_ROOT, "export-layout.json"),
   chrMappingCsvPath: path.join(PROJECT_ROOT, "chr-mapping.csv"),
   chrMappingMetaPath: path.join(PROJECT_ROOT, "chr-mapping.json"),
+  chrMappingTilesPath: path.join(PROJECT_ROOT, "chr_mapping_tiles.json"),
 } as const
